@@ -2,7 +2,7 @@
 
 **Tools and example data for simulating cardiac afterload with power as input to a Windkessel model**, using smoothed cubic splines to represent measured aortic pressure and flow signals and a differential-algebraic representation of the parallel 4-element Windkessel model.
 
-The data and methods presented here were used to generate the results presented in the article "The differential-algebraic Windkessel model with power as input" by Henry Pigot and Kristian Soltesz, presented at the 2022 American Control Conference.
+The data and methods presented here were used to generate the results presented in the article "[The differential-algebraic Windkessel model with power as input](https://portal.research.lu.se/files/115310976/pigot2022differential.pdf)" by Henry Pigot and Kristian Soltesz, presented at the 2022 American Control Conference.
 
 The code uses [DifferentialEquations](https://docs.juliahub.com/DifferentialEquations/UQdwS/6.15.0/), [CSV](https://csv.juliadata.org/stable/), [IJulia](https://julialang.github.io/IJulia.jl/stable/), [Plots.jl](https://github.com/JuliaPlots/Plots.jl), [Polynomials](https://juliamath.github.io/Polynomials.jl/stable/), [Sundials](https://diffeq.sciml.ai/stable/). Thank you to the developers behind those packages.
 
