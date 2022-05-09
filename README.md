@@ -8,7 +8,7 @@ The code uses [DifferentialEquations](https://docs.juliahub.com/DifferentialEqua
 
 ## Data
 
-Aortic pressure and flow measurements [stergiopulos1999_data/](stergiopulos1999_data/) are from Figure 4A type A beat of [_Total Arterial Inertance as the Fourth Element of the Windkessel Model,_ Stergiopulos et al. (1999)](http://doi.org/10.1152/ajpheart.1999.276.1.H81), digitized using [Webplotdigitizer v4.4]({https://automeris.io/WebPlotDigitizer). Pressure in mmHg, flow in L/min.
+Aortic pressure and flow measurements [stergiopulos1999_data/](stergiopulos1999_data/) are from Figure 4A type A beat of [_Total Arterial Inertance as the Fourth Element of the Windkessel Model,_ Stergiopulos et al. (1999)](http://doi.org/10.1152/ajpheart.1999.276.1.H81), digitized using [Webplotdigitizer v4.4]({https://automeris.io/WebPlotDigitizer). Pressure in mmHg, flow in mL/s.
 
 ## Getting started
 
